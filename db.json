@@ -1,0 +1,244 @@
+{
+  "cellphones": [
+    {
+      "name": "Galaxy S23",
+      "price": "R$5000",
+      "price_pix": "R$4500",
+      "installments": 12,
+      "installment_value": "R$416.67",
+      "brand": "Samsung",
+      "color": "Phantom Black",
+      "image_url": "https://images.kabum.com.br/produtos/fotos/416237/smartphone-samsung-galaxy-s23-5g-128gb-8gb-ram-octa-core-camera-tripla-50mp-tela-infinita-de-6-1-preto-sm-s911bzkrzto_1675181371_original.jpg"
+    },
+    {
+      "name": "iPhone 14 Pro",
+      "price": "R$7000",
+      "price_pix": "R$6300",
+      "installments": 12,
+      "installment_value": "R$583.33",
+      "brand": "Apple",
+      "color": "Space Gray",
+      "image_url": "https://example.com/images/iphone-14-pro-gray.jpg"
+    },
+    {
+      "name": "Pixel 7",
+      "price": "R$4500",
+      "price_pix": "R$4050",
+      "installments": 12,
+      "installment_value": "R$375",
+      "brand": "Google",
+      "color": "Obsidian",
+      "image_url": "https://example.com/images/pixel-7-obsidian.jpg"
+    },
+    {
+      "name": "Xiaomi 12",
+      "price": "R$3000",
+      "price_pix": "R$2700",
+      "installments": 12,
+      "installment_value": "R$250",
+      "brand": "Xiaomi",
+      "color": "Cloud White",
+      "image_url": "https://example.com/images/xiaomi-12-white.jpg"
+    },
+    {
+      "name": "OnePlus 10 Pro",
+      "price": "R$4000",
+      "price_pix": "R$3600",
+      "installments": 12,
+      "installment_value": "R$333.33",
+      "brand": "OnePlus",
+      "color": "Volcanic Black",
+      "image_url": "https://example.com/images/oneplus-10-pro-black.jpg"
+    },
+    {
+      "name": "Galaxy A52",
+      "price": "R$1500",
+      "price_pix": "R$1350",
+      "installments": 12,
+      "installment_value": "R$125",
+      "brand": "Samsung",
+      "color": "Awesome Blue",
+      "image_url": "https://example.com/images/galaxy-a52-blue.jpg"
+    },
+    {
+      "name": "Motorola Edge 30",
+      "price": "R$2500",
+      "price_pix": "R$2250",
+      "installments": 12,
+      "installment_value": "R$208.33",
+      "brand": "Motorola",
+      "color": "Meteor Grey",
+      "image_url": "https://example.com/images/motorola-edge-30-grey.jpg"
+    },
+    {
+      "name": "iPhone SE (3rd generation)",
+      "price": "R$3000",
+      "price_pix": "R$2700",
+      "installments": 12,
+      "installment_value": "R$250",
+      "brand": "Apple",
+      "color": "Midnight",
+      "image_url": "https://example.com/images/iphone-se-midnight.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 11",
+      "price": "R$1200",
+      "price_pix": "R$1080",
+      "installments": 12,
+      "installment_value": "R$100",
+      "brand": "Xiaomi",
+      "color": "Graphite Gray",
+      "image_url": "https://example.com/images/redmi-note-11-gray.jpg"
+    },
+    {
+      "name": "Realme GT 2 Pro",
+      "price": "R$3200",
+      "price_pix": "R$2880",
+      "installments": 12,
+      "installment_value": "R$266.67",
+      "brand": "Realme",
+      "color": "Paper White",
+      "image_url": "https://example.com/images/realme-gt2-pro-white.jpg"
+    },
+    {
+      "name": "Oppo Find X5",
+      "price": "R$4200",
+      "price_pix": "R$3780",
+      "installments": 12,
+      "installment_value": "R$350",
+      "brand": "Oppo",
+      "color": "Ceramic White",
+      "image_url": "https://example.com/images/oppo-find-x5-white.jpg"
+    },
+    {
+      "name": "Asus Zenfone 8",
+      "price": "R$2800",
+      "price_pix": "R$2520",
+      "installments": 12,
+      "installment_value": "R$233.33",
+      "brand": "Asus",
+      "color": "Obsidian Black",
+      "image_url": "https://example.com/images/zenfone-8-black.jpg"
+    },
+    {
+      "name": "Nokia G50",
+      "price": "R$1100",
+      "price_pix": "R$990",
+      "installments": 12,
+      "installment_value": "R$91.67",
+      "brand": "Nokia",
+      "color": "Midnight Sun",
+      "image_url": "https://example.com/images/nokia-g50-sun.jpg"
+    },
+    {
+      "name": "Sony Xperia 1 III",
+      "price": "R$6500",
+      "price_pix": "R$5850",
+      "installments": 12,
+      "installment_value": "R$541.67",
+      "brand": "Sony",
+      "color": "Frosted Black",
+      "image_url": "https://example.com/images/xperia-1-iii-black.jpg"
+    },
+    {
+      "name": "Google Pixel 6a",
+      "price": "R$2500",
+      "price_pix": "R$2250",
+      "installments": 12,
+      "installment_value": "R$208.33",
+      "brand": "Google",
+      "color": "Charcoal",
+      "image_url": "https://example.com/images/pixel-6a-charcoal.jpg"
+    },
+    {
+      "name": "Motorola Moto G Pure",
+      "price": "R$1000",
+      "price_pix": "R$900",
+      "installments": 12,
+      "installment_value": "R$83.33",
+      "brand": "Motorola",
+      "color": "Graphite",
+      "image_url": "https://example.com/images/moto-g-pure-graphite.jpg"
+    },
+    {
+      "name": "Samsung Galaxy Z Fold 3",
+      "price": "R$10000",
+      "price_pix": "R$9000",
+      "installments": 12,
+      "installment_value": "R$833.33",
+      "brand": "Samsung",
+      "color": "Phantom Black",
+      "image_url": "https://example.com/images/galaxy-z-fold-3-black.jpg"
+    },
+    {
+      "name": "iPhone 13 Pro Max",
+      "price": "R$8000",
+      "price_pix": "R$7200",
+      "installments": 12,
+      "installment_value": "R$666.67",
+      "brand": "Apple",
+      "color": "Graphite",
+      "image_url": "https://example.com/images/iphone-13-pro-max-graphite.jpg"
+    },
+    {
+      "name": "Xiaomi Mi 11T",
+      "price": "R$3500",
+      "price_pix": "R$3150",
+      "installments": 12,
+      "installment_value": "R$291.67",
+      "brand": "Xiaomi",
+      "color": "Meteorite Gray",
+      "image_url": "https://example.com/images/mi-11t-gray.jpg"
+    },
+    {
+      "name": "OnePlus 9 Pro",
+      "price": "R$5000",
+      "price_pix": "R$4500",
+      "installments": 12,
+      "installment_value": "R$416.67",
+      "brand": "OnePlus",
+      "color": "Morning Mist",
+      "image_url": "https://example.com/images/oneplus-9-pro-mist.jpg"
+    },
+    {
+      "name": "Realme GT Neo 2",
+      "price": "R$2800",
+      "price_pix": "R$2520",
+      "installments": 12,
+      "installment_value": "R$233.33",
+      "brand": "Realme",
+      "color": "Black",
+      "image_url": "https://example.com/images/realme-gt-neo-2-black.jpg"
+    },
+    {
+      "name": "LG Velvet",
+      "price": "R$2000",
+      "price_pix": "R$1800",
+      "installments": 12,
+      "installment_value": "R$166.67",
+      "brand": "LG",
+      "color": "Aurora Silver",
+      "image_url": "https://example.com/images/lg-velvet-silver.jpg"
+    },
+    {
+      "name": "ZTE Axon 30",
+      "price": "R$3500",
+      "price_pix": "R$3150",
+      "installments": 12,
+      "installment_value": "R$291.67",
+      "brand": "ZTE",
+      "color": "Black",
+      "image_url": "https://example.com/images/zte-axon-30-black.jpg"
+    },
+    {
+      "name": "Vivo X70 Pro+",
+      "price": "R$6000",
+      "price_pix": "R$5400",
+      "installments": 12,
+      "installment_value": "R$500",
+      "brand": "Vivo",
+      "color": "Orange",
+      "image_url": "https://example.com/images/vivo-x70-pro-orange.jpg"
+    }
+  ]
+}
